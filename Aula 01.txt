@@ -1,0 +1,54 @@
+<html>
+    <head>
+	<title> <h1> </h1> </title>
+    </head>
+    <body>
+	<div class = "div1">
+	<div class = "div2">
+    </body>
+	<style>
+	 #div1 {
+		wight ;
+		
+		}
+	 #div2 {}
+        </style>
+</html>
+
+<html>
+     <head>
+	  <title> </title>
+     </head>
+     <body>
+     </body>
+</html>
+
+<html>
+     <head>
+	  <title> </title>
+     </head>
+     <body>
+     </body>
+</html>
+
+<html>
+     <head>
+          <title> </title>
+     </head>
+</html>
+
+<html>
+     <head>
+          <title> </title>
+     </head>
+     <body>
+     </body>
+</html>
+
+<html>
+     <head>
+          <title> </title>
+     </head>
+     <body>
+     </body>
+</html>
